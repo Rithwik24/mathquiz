@@ -1,0 +1,23 @@
+body{
+	background-image: url("istockphoto-658165064-612x612.jpg");
+	
+}
+
+#crad{
+    border: royalblue 3px;  
+    width:20cm;  
+    border-radius: 3px;  
+    margin: 120px auto;  
+    background: turquoise;  
+    padding: 50px; 
+}
+
+#crad1{
+    border: turquoise 3px;  
+    width:20cm;  
+    border-radius: 3px;  
+    margin: 120px auto;  
+    background: royalblue;  
+    padding: 50px; 
+}
+
